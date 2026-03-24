@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.serenegiant.usbcameratest7.usbCameraTest7-merged_res-14:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.serenegiant.usbcameratest7.usbCameraTest7-main-16:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.serenegiant.usbcameratest7.usbCameraTest7-merged_res-14:/xml_device_filter.xml.flat",
+        "source": "com.serenegiant.usbcameratest7.usbCameraTest7-main-16:/xml/device_filter.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameratest7.usbCameraTest7-merged_res-14:/drawable_border.xml.flat",
+        "source": "com.serenegiant.usbcameratest7.usbCameraTest7-main-16:/drawable/border.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameratest7.usbCameraTest7-merged_res-14:/layout_activity_main.xml.flat",
+        "source": "com.serenegiant.usbcameratest7.usbCameraTest7-main-16:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameratest7.usbCameraTest7-merged_res-14:/raw_camera_click.ogg.flat",
+        "source": "com.serenegiant.usbcameratest7.usbCameraTest7-main-16:/raw/camera_click.ogg"
+    }
+]

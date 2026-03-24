@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

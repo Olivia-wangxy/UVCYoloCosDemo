@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/ic_frame_cross_circle.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/ic_frame_cross_circle.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/btn_shutter_video_pressed.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/btn_shutter_video_pressed.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/ic_frame_frame.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/ic_frame_frame.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/btn_shutter_video_default.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/btn_shutter_video_default.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/ic_increment.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/ic_increment.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/ic_frame_cross_circle2.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/ic_frame_cross_circle2.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/btn_repeat_shutter_recording_holo.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/btn_repeat_shutter_recording_holo.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/btn_shutter_pressed.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/btn_shutter_pressed.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/ic_decrement.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/ic_decrement.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/btn_video_shutter_recording_pressed_holo.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/btn_video_shutter_recording_pressed_holo.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/ic_frame_cross.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/ic_frame_cross.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/btn_repeat_shutter_default.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/btn_repeat_shutter_default.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/ic_frame_circle.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/ic_frame_circle.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/btn_shutter_default.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/btn_shutter_default.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/btn_repeat_shutter_recording_pressed_holo.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/btn_repeat_shutter_recording_pressed_holo.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/ic_transparent.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/ic_transparent.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/btn_repeat_shutter_pressed.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/btn_repeat_shutter_pressed.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/ic_color_circle.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/ic_color_circle.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/btn_video_shutter_recording_holo.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/btn_video_shutter_recording_holo.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/ic_frame_circle_2.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/ic_frame_circle_2.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/ic_frame_cross_quarter.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/ic_frame_cross_quarter.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-hdpi-v4/ic_drawer.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-hdpi-v4/ic_drawer.png"
+    }
+]

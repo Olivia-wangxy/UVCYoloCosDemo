@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/preference_dialog_edittext.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-preference-v7-27.1.1-1:/layout/preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/item_picker.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-common-2.12.4-0:/layout/item_picker.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/notification_template_big_media_custom.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-support-media-compat-27.1.1-4:/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_screen_toolbar.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_list_menu_item_checkbox.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_expanded_menu_layout.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/notification_template_part_time.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-support-compat-27.1.1-2:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_alert_dialog_material.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_action_menu_layout.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_activity_chooser_view.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/expand_button.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-preference-v7-27.1.1-1:/layout/expand_button.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/seekbar_preference.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-common-2.12.4-0:/layout/seekbar_preference.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/notification_media_action.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-support-media-compat-27.1.1-4:/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/preference_widget_switch.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-preference-v7-27.1.1-1:/layout/preference_widget_switch.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_list_menu_item_icon.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_action_mode_bar.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_alert_dialog_title_material.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_list_menu_item_layout.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/preference_widget_seekbar.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-preference-v7-27.1.1-1:/layout/preference_widget_seekbar.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/select_dialog_item_material.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_action_bar_up_container.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_action_bar_title_item.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/notification_template_media.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-support-media-compat-27.1.1-4:/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_list_menu_item_radio.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/notification_template_big_media_narrow.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-support-media-compat-27.1.1-4:/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/notification_template_media_custom.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-support-media-compat-27.1.1-4:/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/color_picker_dialog.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-common-2.12.4-0:/layout/color_picker_dialog.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/preference_information.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-preference-v7-27.1.1-1:/layout/preference_information.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/select_dialog_multichoice_material.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/preference_dropdown.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-preference-v7-27.1.1-1:/layout/preference_dropdown.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/notification_template_part_chronometer.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-support-compat-27.1.1-2:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/preference_widget_switch_compat.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-preference-v7-27.1.1-1:/layout/preference_widget_switch_compat.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/dialog_camera.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-packaged_res-7:/layout/dialog_camera.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/preference_list_fragment.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-preference-v7-27.1.1-1:/layout/preference_list_fragment.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_select_dialog_material.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_popup_menu_item_layout.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/list_item_bluetooth_device_info.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-common-2.12.4-0:/layout/list_item_bluetooth_device_info.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/preference.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-preference-v7-27.1.1-1:/layout/preference.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/color_picker.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-common-2.12.4-0:/layout/color_picker.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_screen_content_include.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/notification_template_lines_media.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-support-media-compat-27.1.1-4:/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_search_view.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_screen_simple.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/select_dialog_singlechoice_material.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/listitem_device.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-packaged_res-7:/layout/listitem_device.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/preference_widget_checkbox.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-preference-v7-27.1.1-1:/layout/preference_widget_checkbox.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/view_frame_selector.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-common-2.12.4-0:/layout/view_frame_selector.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-support-media-compat-27.1.1-4:/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_action_mode_close_item_material.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/preference_recyclerview.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-preference-v7-27.1.1-1:/layout/preference_recyclerview.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_tooltip.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_dialog_title_material.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/abc_action_menu_item_layout.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/notification_template_big_media.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-support-media-compat-27.1.1-4:/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/preference_category.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-preference-v7-27.1.1-1:/layout/preference_category.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/notification_media_cancel_action.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-support-media-compat-27.1.1-4:/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/layout/preference_widget_seekbar_material.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-preference-v7-27.1.1-1:/layout/preference_widget_seekbar_material.xml"
+    }
+]

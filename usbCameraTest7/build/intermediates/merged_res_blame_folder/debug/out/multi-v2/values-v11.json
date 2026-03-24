@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.serenegiant.usbcameratest7.usbCameraTest7-mergeDebugResources-12:/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "D:\\StudyProject\\UCYTest\\usbCameraTest7\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "29",
+                        "startColumns": "4",
+                        "startOffsets": "1134",
+                        "endLines": "31",
+                        "endColumns": "12",
+                        "endOffsets": "1266"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "138"
+                    }
+                }
+            ]
+        }
+    ]
+}

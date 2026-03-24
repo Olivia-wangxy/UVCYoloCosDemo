@@ -1,0 +1,15 @@
+com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0 C:\Users\PC\.gradle\caches\transforms-3\26da0a1c5fca15f78d9f291e6dbf9229\transformed\common-2.12.4\res
+com.serenegiant.uvccamera.libuvccamera-preference-v7-27.1.1-1 C:\Users\PC\.gradle\caches\transforms-3\3afee18712217bdcb4f77c0f9eda7c06\transformed\preference-v7-27.1.1\res
+com.serenegiant.uvccamera.libuvccamera-support-compat-27.1.1-2 C:\Users\PC\.gradle\caches\transforms-3\69c3784466c0b14784ac50aafd65e933\transformed\support-compat-27.1.1\res
+com.serenegiant.uvccamera.libuvccamera-recyclerview-v7-27.1.1-3 C:\Users\PC\.gradle\caches\transforms-3\761d063c3721b9528002b21275890b4f\transformed\recyclerview-v7-27.1.1\res
+com.serenegiant.uvccamera.libuvccamera-support-media-compat-27.1.1-4 C:\Users\PC\.gradle\caches\transforms-3\8e616ba02af3c6c29f5c836574d57397\transformed\support-media-compat-27.1.1\res
+com.serenegiant.uvccamera.libuvccamera-support-core-ui-27.1.1-5 C:\Users\PC\.gradle\caches\transforms-3\cfaff932d5ab53d88a1da894b0bef061\transformed\support-core-ui-27.1.1\res
+com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6 C:\Users\PC\.gradle\caches\transforms-3\ec1d69b10a44f5245aebf7510450328d\transformed\appcompat-v7-27.1.1\res
+com.serenegiant.uvccamera.libuvccamera-pngs-7 D:\StudyProject\UVCCamera-master\UVCCamera-master\libuvccamera\build\generated\res\pngs\release
+com.serenegiant.uvccamera.libuvccamera-resValues-8 D:\StudyProject\UVCCamera-master\UVCCamera-master\libuvccamera\build\generated\res\resValues\release
+com.serenegiant.uvccamera.libuvccamera-rs-9 D:\StudyProject\UVCCamera-master\UVCCamera-master\libuvccamera\build\generated\res\rs\release
+com.serenegiant.uvccamera.libuvccamera-mergeReleaseResources-10 D:\StudyProject\UVCCamera-master\UVCCamera-master\libuvccamera\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.serenegiant.uvccamera.libuvccamera-mergeReleaseResources-11 D:\StudyProject\UVCCamera-master\UVCCamera-master\libuvccamera\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.serenegiant.uvccamera.libuvccamera-merged_res-12 D:\StudyProject\UVCCamera-master\UVCCamera-master\libuvccamera\build\intermediates\merged_res\release
+com.serenegiant.uvccamera.libuvccamera-main-13 D:\StudyProject\UVCCamera-master\UVCCamera-master\libuvccamera\src\main\res
+com.serenegiant.uvccamera.libuvccamera-release-14 D:\StudyProject\UVCCamera-master\UVCCamera-master\libuvccamera\src\release\res

@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/xml/device_filter.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-main-12:/xml/device_filter.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/animator/card_flip_left_in.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/animator/card_flip_left_in.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/animator/card_flip_right_out.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/animator/card_flip_right_out.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/animator/card_flip_right_in.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/animator/card_flip_right_in.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/animator/card_flip_left_out.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/animator/card_flip_left_out.xml"
+    }
+]

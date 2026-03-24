@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-ldpi-v4/ic_color_circle.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-ldpi-v4/ic_color_circle.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-ldpi-v4/ic_frame_cross_quarter.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-ldpi-v4/ic_frame_cross_quarter.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-ldpi-v4/ic_frame_cross.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-ldpi-v4/ic_frame_cross.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-ldpi-v4/ic_frame_circle.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-ldpi-v4/ic_frame_circle.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-ldpi-v4/ic_frame_cross_circle2.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-ldpi-v4/ic_frame_cross_circle2.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-ldpi-v4/ic_transparent.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-ldpi-v4/ic_transparent.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-ldpi-v4/ic_frame_circle_2.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-ldpi-v4/ic_frame_circle_2.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-ldpi-v4/ic_frame_cross_circle.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-ldpi-v4/ic_frame_cross_circle.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/mipmap-ldpi-v4/ic_frame_frame.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/mipmap-ldpi-v4/ic_frame_frame.png"
+    }
+]

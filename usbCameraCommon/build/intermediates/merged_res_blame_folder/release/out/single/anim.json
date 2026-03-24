@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/anim/slide_in_left.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-common-2.12.4-0:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/anim/abc_slide_in_top.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/anim/slide_out_right.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-common-2.12.4-0:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/anim/abc_tooltip_exit.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/anim/slide_out_left.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-common-2.12.4-0:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/anim/abc_fade_in.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/anim/abc_slide_out_bottom.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/anim/abc_slide_in_bottom.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/anim/abc_popup_enter.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/anim/abc_tooltip_enter.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/anim/abc_popup_exit.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/anim/slide_in_right.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-common-2.12.4-0:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/anim/abc_fade_out.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/anim/abc_slide_out_top.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-appcompat-v7-27.1.1-6:/anim/abc_slide_out_top.xml"
+    }
+]

@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.serenegiant.usbcameracommon.usbCameraCommon-merged_res-12:/xml/device_filter.xml",
+        "source": "com.serenegiant.usbcameracommon.usbCameraCommon-packaged_res-7:/xml/device_filter.xml"
+    }
+]

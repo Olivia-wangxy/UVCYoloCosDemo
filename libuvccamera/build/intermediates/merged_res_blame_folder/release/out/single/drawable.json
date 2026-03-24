@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_tab_indicator_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_ic_go_search_api_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/border.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/border.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/toggle_slide.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/toggle_slide.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_item_background_holo_dark.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/toggle.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/toggle.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/recordingtime.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/recordingtime.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/notification_icon_background.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-support-compat-27.1.1-2:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/btn_shutter_video_recording.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/btn_shutter_video_recording.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_ic_search_api_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/btn_new_shutter.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/btn_new_shutter.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/notification_bg_low.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-support-compat-27.1.1-2:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_textfield_search_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_list_selector_holo_light.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/border_gray.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/border_gray.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/ic_notification.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/ic_notification.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_list_selector_holo_dark.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_ic_clear_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_seekbar_thumb_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/tooltip_frame_light.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_ratingbar_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_switch_thumb_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/frame.9.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/frame.9.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/notification_tile_bg.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-support-compat-27.1.1-2:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_btn_radio_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_item_background_holo_light.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/tooltip_frame_dark.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_btn_check_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/border_black.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/border_black.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/mask_circle.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/mask_circle.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/btn_new_shutter_video.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/btn_new_shutter_video.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_cab_background_top_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_vector_test.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/toggle_button_base.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/toggle_button_base.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_dialog_material_background.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_text_cursor_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_ic_ab_back_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/frame_cross.9.png",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/frame_cross.9.png"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/transparent_rect.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/transparent_rect.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/notification_bg.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-support-compat-27.1.1-2:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/quater_clear_rect.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/quater_clear_rect.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_cab_background_internal_bg.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_btn_borderless_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/btn_repeat_shutter_recording.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-common-2.12.4-0:/drawable/btn_repeat_shutter_recording.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_ratingbar_small_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_seekbar_track_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "com.serenegiant.uvccamera.libuvccamera-merged_res-11:/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "com.serenegiant.uvccamera.libuvccamera-appcompat-v7-27.1.1-6:/drawable/abc_seekbar_tick_mark_material.xml"
+    }
+]
