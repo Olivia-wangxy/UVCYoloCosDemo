@@ -151,6 +151,7 @@ dimen list_font_size
 drawable border
 drawable ic_launcher
 id RelativeLayout1
+id back
 id camera_layout_L
 id camera_layout_R
 id camera_view_L
@@ -158,8 +159,6 @@ id camera_view_R
 id capture
 id capture_button_L
 id capture_button_R
-id frame_image_L
-id frame_image_R
 id record
 id textView1
 layout activity_main

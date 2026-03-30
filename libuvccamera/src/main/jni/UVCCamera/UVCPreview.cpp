@@ -526,6 +526,7 @@ void UVCPreview::do_preview(uvc_stream_ctrl_t *ctrl) {
 #endif
 		if (frameMode) {
 			// MJPEG mode
+            LOGI("MJPEG mode...");
 			for ( ; LIKELY(isRunning()) ; ) {
 				frame_mjpeg = waitPreviewFrame();
 				if (LIKELY(frame_mjpeg)) {
@@ -542,6 +543,7 @@ void UVCPreview::do_preview(uvc_stream_ctrl_t *ctrl) {
 			}
 		} else {
 			// yuvyv mode
+            LOGI("yuyv mode...");
 			for ( ; LIKELY(isRunning()) ; ) {
 				frame = waitPreviewFrame();
 				if (LIKELY(frame)) {

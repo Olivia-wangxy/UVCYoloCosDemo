@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml:24:1-54
-INJECTED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml:24:1-54
-INJECTED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml:24:1-54
+ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml:24:1-54
+INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml:24:1-54
+INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml:24:1-54
 	package
-		ADDED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml:24:11-52
-		INJECTED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml
-		INJECTED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml:24:11-52
+		INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml
+		INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml:24:1-54
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml:24:1-54
 uses-sdk
-INJECTED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml
-INJECTED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml
-INJECTED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml
-INJECTED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml
+INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml
+INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml
+INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml
+INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml
-		ADDED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml
-		INJECTED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml
+		INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml
+		INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml
-		ADDED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml
-		INJECTED from D:\StudyProject\UCYTest\usbCameraCommon\src\main\AndroidManifest.xml
+		INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml
+		INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraCommon\src\main\AndroidManifest.xml

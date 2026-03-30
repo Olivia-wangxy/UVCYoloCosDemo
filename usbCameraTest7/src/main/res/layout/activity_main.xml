@@ -26,15 +26,14 @@
     android:id="@+id/RelativeLayout1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#ff000000"
-    tools:context="com.serenegiant.usbcameratest3.MainActivity"
     tools:ignore="MergeRootFrame" >
 
     <TextView
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Touch screen to select camera"
+        android:text="点击预览区连接USB摄像头，点击相机按钮开始/停止录制"
+		android:textSize="24dp"
         android:textColor="#FFFF0000" />
 
     <LinearLayout
@@ -48,7 +47,8 @@
 	        android:id="@+id/camera_layout_L"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:layout_weight="1" >
+            android:layout_weight="1"
+			android:background="@drawable/border">
 
             <com.serenegiant.widget.UVCCameraTextureView
                 android:id="@+id/camera_view_L"
@@ -57,15 +57,15 @@
                 android:layout_centerHorizontal="true"
                 android:layout_centerVertical="true" />
 
-            <ImageView
-                android:id="@+id/frame_image_L"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignBottom="@+id/camera_view_L"
-                android:layout_alignLeft="@+id/camera_view_L"
-                android:layout_alignRight="@+id/camera_view_L"
-                android:layout_alignTop="@+id/camera_view_L"
-                android:src="@drawable/border" />
+<!--            <ImageView-->
+<!--                android:id="@+id/frame_image_L"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_alignBottom="@+id/camera_view_L"-->
+<!--                android:layout_alignLeft="@+id/camera_view_L"-->
+<!--                android:layout_alignRight="@+id/camera_view_L"-->
+<!--                android:layout_alignTop="@+id/camera_view_L"-->
+<!--                android:src="@drawable/border" />-->
 			<ImageButton
 				android:id="@+id/capture_button_L"
 				android:layout_width="@dimen/button_size"
@@ -82,7 +82,8 @@
 	        android:id="@+id/camera_layout_R"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:layout_weight="1" >
+            android:layout_weight="1"
+			android:background="@drawable/border">
 
             <com.serenegiant.widget.UVCCameraTextureView
                 android:id="@+id/camera_view_R"
@@ -91,15 +92,15 @@
                 android:layout_centerHorizontal="true"
                 android:layout_centerVertical="true" />
 
-            <ImageView
-                android:id="@+id/frame_image_R"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignBottom="@+id/camera_view_R"
-                android:layout_alignLeft="@+id/camera_view_R"
-                android:layout_alignRight="@+id/camera_view_R"
-                android:layout_alignTop="@+id/camera_view_R"
-                android:src="@drawable/border" />
+<!--            <ImageView-->
+<!--                android:id="@+id/frame_image_R"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_alignBottom="@+id/camera_view_R"-->
+<!--                android:layout_alignLeft="@+id/camera_view_R"-->
+<!--                android:layout_alignRight="@+id/camera_view_R"-->
+<!--                android:layout_alignTop="@+id/camera_view_R"-->
+<!--                android:src="@drawable/border" />-->
 			<ImageButton
 				android:id="@+id/capture_button_R"
 				android:layout_width="@dimen/button_size"
@@ -113,6 +114,14 @@
         </RelativeLayout>
 
     </LinearLayout>
+
+	<Button
+		android:id="@+id/back"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="返回"
+		android:layout_alignParentEnd="true"
+		android:layout_alignParentTop="true"/>
 
 	<Button
 		android:id="@+id/record"

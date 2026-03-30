@@ -1,32 +1,33 @@
-src/main/obj/local/armeabi-v7a/objs/UVCCamera/UVCPreview.o: \
-  src/main/jni/UVCCamera/UVCPreview.cpp \
-  src/main/jni/UVCCamera/..\utilbase.h \
-  src/main/jni/UVCCamera/../localdefines.h \
-  src/main/jni/UVCCamera/UVCPreview.h \
-  src/main/jni/UVCCamera/libUVCCamera.h \
-  src/main/jni/libusb/android/jni/../../libusb\libusb.h \
-  src/main/jni/libuvc/android/jni/../../include/libuvc\libuvc.h \
-  src/main/jni/libuvc/android/jni/../../include\libuvc/libuvc_config.h \
-  src/main/jni/UVCCamera/objectarray.h \
-  src/main/jni/libuvc/android/jni/../../include/libuvc\libuvc_internal.h \
-  src/main/jni/libuvc/android/jni/../../include\utlist.h
+./obj/local/armeabi-v7a/objs/UVCCamera/UVCPreview.o: \
+  jni\UVCCamera\UVCPreview.cpp jni\UVCCamera\..\utilbase.h \
+  jni\UVCCamera\..\localdefines.h jni\UVCCamera\UVCPreview.h \
+  jni\UVCCamera\libUVCCamera.h \
+  jni\libusb\android\jni\..\..\libusb\libusb.h \
+  jni\libuvc\android\jni\..\..\include\libuvc\libuvc.h \
+  jni\libusb\android\jni\..\..\libusb\libusb.h \
+  jni\libuvc\android\jni\..\..\include\libuvc\libuvc_config.h \
+  jni\UVCCamera\objectarray.h \
+  jni\libuvc\android\jni\..\..\include\libuvc\libuvc_internal.h \
+  jni\libuvc\android\jni\..\..\include\utlist.h
 
-src/main/jni/UVCCamera/..\utilbase.h:
+jni\UVCCamera\..\utilbase.h:
 
-src/main/jni/UVCCamera/../localdefines.h:
+jni\UVCCamera\..\localdefines.h:
 
-src/main/jni/UVCCamera/UVCPreview.h:
+jni\UVCCamera\UVCPreview.h:
 
-src/main/jni/UVCCamera/libUVCCamera.h:
+jni\UVCCamera\libUVCCamera.h:
 
-src/main/jni/libusb/android/jni/../../libusb\libusb.h:
+jni\libusb\android\jni\..\..\libusb\libusb.h:
 
-src/main/jni/libuvc/android/jni/../../include/libuvc\libuvc.h:
+jni\libuvc\android\jni\..\..\include\libuvc\libuvc.h:
 
-src/main/jni/libuvc/android/jni/../../include\libuvc/libuvc_config.h:
+jni\libusb\android\jni\..\..\libusb\libusb.h:
 
-src/main/jni/UVCCamera/objectarray.h:
+jni\libuvc\android\jni\..\..\include\libuvc\libuvc_config.h:
 
-src/main/jni/libuvc/android/jni/../../include/libuvc\libuvc_internal.h:
+jni\UVCCamera\objectarray.h:
 
-src/main/jni/libuvc/android/jni/../../include\utlist.h:
+jni\libuvc\android\jni\..\..\include\libuvc\libuvc_internal.h:
+
+jni\libuvc\android\jni\..\..\include\utlist.h:

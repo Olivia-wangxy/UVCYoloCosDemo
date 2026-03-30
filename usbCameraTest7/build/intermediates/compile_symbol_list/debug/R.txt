@@ -1295,6 +1295,7 @@ int id anim_duration 0x0
 int id anim_listener 0x0
 int id anim_type 0x0
 int id async 0x0
+int id back 0x0
 int id blocking 0x0
 int id bottom 0x0
 int id buttonPanel 0x0
@@ -1340,8 +1341,6 @@ int id frame_cross_circle2_button 0x0
 int id frame_cross_circle_button 0x0
 int id frame_cross_quarter_button 0x0
 int id frame_frame_button 0x0
-int id frame_image_L 0x0
-int id frame_image_R 0x0
 int id frame_type_circle 0x0
 int id frame_type_circle2 0x0
 int id frame_type_cross_circle 0x0

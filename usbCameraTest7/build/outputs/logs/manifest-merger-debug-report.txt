@@ -1,67 +1,67 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:24:1-48:12
-INJECTED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:24:1-48:12
-INJECTED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:24:1-48:12
+ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:24:1-48:12
+INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:24:1-48:12
+INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:24:1-48:12
 	package
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:25:5-45
-		INJECTED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml
-		INJECTED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:25:5-45
+		INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml
+		INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:24:11-69
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:24:11-69
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:27:2-67
+ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:27:2-67
 	android:name
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:27:19-65
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:27:19-65
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:28:2-77
+ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:28:2-77
 	android:name
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:28:19-75
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:28:19-75
 uses-feature#0x00020000
-ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:30:2-75
+ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:30:2-75
 	android:glEsVersion
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:30:16-48
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:30:16-48
 	android:required
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:30:49-72
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:30:49-72
 application
-ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:32:5-46:19
+ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:32:5-46:19
 	android:label
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:35:9-41
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:35:9-41
 	android:icon
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:34:9-45
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:34:9-45
 	android:allowBackup
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:33:9-35
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:33:9-35
 	android:theme
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:36:9-40
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:36:9-40
 activity#com.serenegiant.usbcameratest7.MainActivity
-ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:37:9-45:20
+ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:37:9-45:20
 	android:screenOrientation
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:40:13-56
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:40:13-56
 	android:label
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:39:13-45
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:39:13-45
 	android:name
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:38:13-71
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:38:13-71
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:41:13-44:29
+ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:41:13-44:29
 action#android.intent.action.MAIN
-ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:42:17-69
+ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:42:17-69
 	android:name
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:42:25-66
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:42:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:43:17-77
+ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:43:17-77
 	android:name
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml:43:27-74
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml:43:27-74
 uses-sdk
-INJECTED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml
-INJECTED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml
-INJECTED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml
-INJECTED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml
+INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml
+INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml
+INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml
+INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml
-		INJECTED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml
+		INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml
+		INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml
-		ADDED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml
-		INJECTED from D:\StudyProject\UCYTest\usbCameraTest7\src\main\AndroidManifest.xml
+		INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml
+		ADDED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml
+		INJECTED from D:\StudyProject\UVCCosYoloDemo\usbCameraTest7\src\main\AndroidManifest.xml

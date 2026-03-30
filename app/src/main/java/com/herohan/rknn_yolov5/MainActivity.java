@@ -16,6 +16,7 @@ import android.os.Environment;
 import android.provider.MediaStore;
 import android.util.Log;
 import android.view.View;
+import android.webkit.MimeTypeMap;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
@@ -30,6 +31,7 @@ import com.tencent.cos.xml.listener.CosXmlProgressListener;
 import com.tencent.cos.xml.listener.CosXmlResultListener;
 import com.tencent.cos.xml.model.CosXmlRequest;
 import com.tencent.cos.xml.model.CosXmlResult;
+import com.tencent.cos.xml.transfer.COSXMLDownloadTask;
 import com.tencent.cos.xml.transfer.COSXMLUploadTask;
 import com.tencent.cos.xml.transfer.TransferConfig;
 import com.tencent.cos.xml.transfer.TransferManager;
@@ -38,11 +40,14 @@ import com.tencent.cos.xml.transfer.TransferStateListener;
 import com.tencent.qcloud.core.auth.ShortTimeCredentialProvider;
 
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.net.HttpURLConnection;
+import java.net.URL;
 
 public class MainActivity extends Activity {
     private static final String TAG = MainActivity.class.getSimpleName();
@@ -61,8 +66,18 @@ public class MainActivity extends Activity {
     private static final int REQUEST_PICK_IMAGE = 1001;
 
     private void openGallery() {
-        Intent intent = new Intent(Intent.ACTION_PICK);
-        intent.setType("image/*");
+        Log.d("wxy", "openGallery: ");
+//        Intent intent = new Intent(Intent.ACTION_PICK);
+//        intent.setType("image/*");
+//        startActivityForResult(intent, REQUEST_PICK_IMAGE);
+
+        Intent intent = new Intent(Intent.ACTION_GET_CONTENT);
+        intent.setType("*/*");
+        intent.putExtra(Intent.EXTRA_MIME_TYPES, new String[]{
+                "image/*",
+                "video/*"
+        });
+        intent.addCategory(Intent.CATEGORY_OPENABLE);
         startActivityForResult(intent, REQUEST_PICK_IMAGE);
     }
 
@@ -95,6 +110,7 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View view) {
                 openGallery();
+//                downloadAndSave("https://uvc2cos-1410788524.cos.ap-guangzhou.myqcloud.com/images/1773310725049.jpg");
             }
         });
 
@@ -334,7 +350,16 @@ public class MainActivity extends Activity {
     private void uploadImage(Uri uri) {
 
         String bucket = "uvc2cos-1410788524";
-        String cosPath = "images/" + System.currentTimeMillis() + ".jpg";
+
+        String extension = MimeTypeMap.getSingleton()
+                .getExtensionFromMimeType(getContentResolver().getType(uri));
+
+        if (extension == null) {
+            extension = "mp4"; // 默认兜底
+        }
+
+        String cosPath = "images/" + System.currentTimeMillis() + "." + extension;
+//        String cosPath = "images/" + System.currentTimeMillis() + ".jpg";
 
         Log.d("wxy", "准备上传");
 
@@ -435,6 +460,135 @@ public class MainActivity extends Activity {
         }
 
         return file;
+    }
+
+
+    private void downloadAndSave(String url) {
+
+        new Thread(() -> {
+            try {
+
+                // ✅ 1. 创建文件
+                File dir = new File(getExternalFilesDir(null), "images");
+                if (!dir.exists()) dir.mkdirs();
+
+                File file = new File(dir,
+                        "download_" + System.currentTimeMillis() + ".jpg");
+
+                // 防止同名目录问题
+                if (file.exists()) {
+                    file.delete();
+                }
+
+                // ✅ 2. 下载
+                URL u = new URL(url);
+                HttpURLConnection conn = (HttpURLConnection) u.openConnection();
+                conn.connect();
+
+                InputStream in = conn.getInputStream();
+                FileOutputStream out = new FileOutputStream(file);
+
+                byte[] buffer = new byte[4096];
+                int len;
+
+                while ((len = in.read(buffer)) != -1) {
+                    out.write(buffer, 0, len);
+                }
+
+                in.close();
+                out.close();
+
+                // ✅ 3. 校验文件
+                Log.d("wxy", "exists=" + file.exists());
+                Log.d("wxy", "isDir=" + file.isDirectory());
+                Log.d("wxy", "length=" + file.length());
+
+                if (!file.exists() || file.isDirectory() || file.length() == 0) {
+                    Log.e("wxy", "❌ 下载失败（无效文件）");
+                    return;
+                }
+
+                // ✅ 4. 保存到图库（主线程）
+                runOnUiThread(() -> saveToGallery(file));
+
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }).start();
+    }
+
+
+    private void saveToGallery(File file) {
+
+        // ✅ 1. 基础校验（防止 EISDIR）
+        if (file == null || !file.exists() || file.isDirectory()) {
+            Log.e("wxy", "文件无效: " + (file == null ? "null" : file.getAbsolutePath()));
+            return;
+        }
+
+        ContentValues values = new ContentValues();
+        values.put(MediaStore.Images.Media.DISPLAY_NAME,
+                "IMG_" + System.currentTimeMillis() + ".jpg");
+        values.put(MediaStore.Images.Media.MIME_TYPE, "image/jpeg");
+
+        // ✅ Android 10+ 写入相册路径
+        if (Build.VERSION.SDK_INT >= 29) {
+//            values.put(MediaStore.Images.Media.RELATIVE_PATH, "DCIM/Camera");
+        }
+
+        Uri uri = null;
+        OutputStream out = null;
+        FileInputStream in = null;
+
+        try {
+            // ✅ 2. 插入 MediaStore
+            uri = getContentResolver().insert(
+                    MediaStore.Images.Media.EXTERNAL_CONTENT_URI,
+                    values
+            );
+
+            if (uri == null) {
+                Log.e("wxy", "创建 MediaStore 记录失败");
+                return;
+            }
+
+            // ✅ 3. 打开输出流
+            out = getContentResolver().openOutputStream(uri);
+            if (out == null) {
+                Log.e("wxy", "输出流为空");
+                return;
+            }
+
+            // ✅ 4. 读取文件写入
+            in = new FileInputStream(file);
+
+            byte[] buffer = new byte[4096];
+            int len;
+
+            while ((len = in.read(buffer)) != -1) {
+                out.write(buffer, 0, len);
+            }
+
+            out.flush();
+
+            Log.d("wxy", "✅ 已保存到图库: " + uri.toString());
+
+        } catch (Exception e) {
+            e.printStackTrace();
+
+            // ❗写入失败时删除残留
+            if (uri != null) {
+                getContentResolver().delete(uri, null, null);
+            }
+
+        } finally {
+            try {
+                if (in != null) in.close();
+                if (out != null) out.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
     }
 
 

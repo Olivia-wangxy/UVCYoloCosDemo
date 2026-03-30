@@ -113,7 +113,7 @@ public final class USBMonitor {
 	}
 
 	public USBMonitor(final Context context, final OnDeviceConnectListener listener) {
-		if (DEBUG) Log.v(TAG, "USBMonitor:Constructor");
+		Log.v(TAG, "USBMonitor:Constructor");
 		if (listener == null)
 			throw new IllegalArgumentException("OnDeviceConnectListener should not null.");
 		mWeakContext = new WeakReference<Context>(context);
@@ -121,7 +121,7 @@ public final class USBMonitor {
 		mOnDeviceConnectListener = listener;
 		mAsyncHandler = HandlerThreadHandler.createHandler(TAG);
 		destroyed = false;
-		if (DEBUG) Log.v(TAG, "USBMonitor:mUsbManager=" + mUsbManager);
+		Log.v(TAG, "USBMonitor:mUsbManager=" + mUsbManager);
 	}
 
 	/**
@@ -129,7 +129,7 @@ public final class USBMonitor {
 	 * never reuse again
 	 */
 	public void destroy() {
-		if (DEBUG) Log.i(TAG, "destroy:");
+		Log.i(TAG, "destroy:");
 		unregister();
 		if (!destroyed) {
 			destroyed = true;
@@ -164,7 +164,7 @@ public final class USBMonitor {
 	public synchronized void register() throws IllegalStateException {
 		if (destroyed) throw new IllegalStateException("already destroyed");
 		if (mPermissionIntent == null) {
-			if (DEBUG) Log.i(TAG, "register:");
+			Log.i(TAG, "register:");
 			final Context context = mWeakContext.get();
 			if (context != null) {
 				mPermissionIntent = PendingIntent.getBroadcast(context, 0, new Intent(ACTION_USB_PERMISSION), 0);
@@ -555,7 +555,7 @@ public final class USBMonitor {
 		mAsyncHandler.post(new Runnable() {
 			@Override
 			public void run() {
-				if (DEBUG) Log.v(TAG, "processConnect:device=" + device);
+				Log.v(TAG, "processConnect:device=" + device);
 				UsbControlBlock ctrlBlock;
 				final boolean createNew;
 				ctrlBlock = mCtrlBlocks.get(device);
@@ -575,7 +575,7 @@ public final class USBMonitor {
 
 	private final void processCancel(final UsbDevice device) {
 		if (destroyed) return;
-		if (DEBUG) Log.v(TAG, "processCancel:");
+		Log.v(TAG, "processCancel:");
 		updatePermission(device, false);
 		if (mOnDeviceConnectListener != null) {
 			mAsyncHandler.post(new Runnable() {
@@ -589,7 +589,7 @@ public final class USBMonitor {
 
 	private final void processAttach(final UsbDevice device) {
 		if (destroyed) return;
-		if (DEBUG) Log.v(TAG, "processAttach:");
+		Log.v(TAG, "processAttach:");
 		if (mOnDeviceConnectListener != null) {
 			mAsyncHandler.post(new Runnable() {
 				@Override
@@ -602,7 +602,7 @@ public final class USBMonitor {
 
 	private final void processDettach(final UsbDevice device) {
 		if (destroyed) return;
-		if (DEBUG) Log.v(TAG, "processDettach:");
+		Log.v(TAG, "processDettach:");
 		if (mOnDeviceConnectListener != null) {
 			mAsyncHandler.post(new Runnable() {
 				@Override
@@ -967,7 +967,7 @@ public final class USBMonitor {
 		 * @param device
 		 */
 		private UsbControlBlock(final USBMonitor monitor, final UsbDevice device) {
-			if (DEBUG) Log.i(TAG, "UsbControlBlock:constructor");
+			Log.i(TAG, "UsbControlBlock:constructor");
 			mWeakMonitor = new WeakReference<USBMonitor>(monitor);
 			mWeakDevice = new WeakReference<UsbDevice>(device);
 			mConnection = monitor.mUsbManager.openDevice(device);
@@ -1289,7 +1289,7 @@ public final class USBMonitor {
 		 * This also close interfaces if they are opened in Java side
 		 */
 		public synchronized void close() {
-			if (DEBUG) Log.i(TAG, "UsbControlBlock#close:");
+			Log.i(TAG, "UsbControlBlock#close:");
 
 			if (mConnection != null) {
 				final int n = mInterfaces.size();
